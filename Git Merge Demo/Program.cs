@@ -4,7 +4,11 @@
     {
         public static void Main()
         {
+
+            Console.WriteLine("Hello, this is Alex!");
+
             Console.WriteLine("Hello, this is Irving! part 2!");
+
         }
     }
 }
