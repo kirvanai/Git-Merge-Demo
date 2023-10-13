@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kirva\\.nuget\\packages\\": {}
+    "C:\\Users\\strea\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirva\\Documents\\Grand Circus\\Class Demo Code\\Git Merge Demo\\Git Merge Demo\\Git Merge Demo.csproj",
+      "projectUniqueName": "C:\\Users\\strea\\Source\\Repos\\Git-Merge-Demo\\Git Merge Demo\\Git Merge Demo.csproj",
       "projectName": "Git Merge Demo",
-      "projectPath": "C:\\Users\\kirva\\Documents\\Grand Circus\\Class Demo Code\\Git Merge Demo\\Git Merge Demo\\Git Merge Demo.csproj",
-      "packagesPath": "C:\\Users\\kirva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirva\\Documents\\Grand Circus\\Class Demo Code\\Git Merge Demo\\Git Merge Demo\\obj\\",
+      "projectPath": "C:\\Users\\strea\\Source\\Repos\\Git-Merge-Demo\\Git Merge Demo\\Git Merge Demo.csproj",
+      "packagesPath": "C:\\Users\\strea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\strea\\Source\\Repos\\Git-Merge-Demo\\Git Merge Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kirva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\strea\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
